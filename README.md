@@ -10,3 +10,7 @@ This project focuses on developing an advanced AI-driven tool, "Second Opinion G
 <li><strong>Integration with Medical Systems:</strong> The project also involved seamless integration with existing medical databases and electronic health records (EHR), enabling the AI to pull relevant patient data instantly and provide contextually accurate recommendations.</li>
 </ol>
 <p>The project was fully developed in Python, utilizing the ChatGPT-4o API, LangChain framework, and advanced machine learning techniques to enhance the accuracy and reliability of medical consultations.</p>
+
+<p><strong>Examples Responses:</strong>
+
+![Ekran görüntüsü 2024-08-22 013746](https://github.com/user-attachments/assets/8a7a5bbe-4214-475c-bcac-e33e70ab4067)
